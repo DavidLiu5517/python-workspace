@@ -184,3 +184,4 @@ while pan:
     else:
         print("Please enter Y or N.")
 print("Thank you for using this program, have a nice day!")
+print("Thank you for using this program, have a nice day!")
